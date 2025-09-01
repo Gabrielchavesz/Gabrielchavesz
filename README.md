@@ -1,6 +1,13 @@
 # 🧑🏻‍💻 Gabriel Chaves
 
 **`Desenvolvedor Front-End (Front-End Developer)`**
+<br/>
+<br/>
+
+<p align="center">
+  <img src="IMG/FotoPerfil.jpg" width="100%" />
+</p>
+
 
 Pt-Br:
 
